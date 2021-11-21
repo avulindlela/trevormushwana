@@ -1348,3 +1348,12 @@ footer a:hover {
   }
 
 }
+
+.social-img {
+  width:30px;
+  margin-right: 2rem;
+}
+
+.behance {
+  width:45px !important;
+}
